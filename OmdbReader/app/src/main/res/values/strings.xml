@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OmdbReader</string>
+    <string name="title_activity_act_main"></string>
+    <string name="title_activity_act_film_details"></string>
+    <string name="loading">Loading...</string>
+    <string name="error_delete_film">Problems to remove from your collection</string>
+    <string name="info_delete_film">Removed from your collection</string>
+    <string name="error_add_film">Problems to add in your collection</string>
+    <string name="info_add_film">Added to your collection</string>
+    <string name="error_retrieve_film">We have problems to get your film</string>
+    <string name="action_ok">OK</string>
+    <string name="info_empty_collection">You don\'t have any movies.</string>
+    <string name="error_no_network_connection">No internet connection.</string>
+    <string name="error_service">Service Problems.</string>
+    <string name="action_add_collection">add to my collection</string>
+    <string name="action_remove_collection">remove from my collection</string>
+</resources>
